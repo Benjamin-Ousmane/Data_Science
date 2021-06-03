@@ -1,4 +1,6 @@
-The code follows the video lectures from the Youtube channel 'Friends of Tracking'
+# Here are tutorials and projects related to data science and soccer !
+
+The tutorials follows the video lectures from the Youtube channel 'Friends of Tracking'
 https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w
 
 You can find the data in json format here :
